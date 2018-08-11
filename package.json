@@ -8,7 +8,20 @@
     "start": "webpack-dev-server --mode development",
     "build": "webpack"
   },
-  "author": "",
+  "author": "vulkanosaure",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vulkanosaure/npm-js-route-controller"
+  },
+  "bugs": {
+    "url": "https://github.com/vulkanosaure/npm-js-route-controller/issues"
+  },
+  "keywords": [
+    "controller",
+    "js",
+    "typescript",
+    "router"
+  ],
   "license": "ISC",
   "devDependencies": {
     "ts-loader": "^4.1.0",

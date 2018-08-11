@@ -1,4 +1,4 @@
-export class JsRouter{
+export class JsRouteController{
 	
 	data:{pattern:string|string[], ctrlClass:any}[];
 	mainCtrl:any;

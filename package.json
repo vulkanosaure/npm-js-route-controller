@@ -1,0 +1,20 @@
+{
+  "name": "js-route-controller",
+  "version": "1.0.0",
+  "description": "Allow you to associate Js class controllers with url routes for a multi-page application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --mode development",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^4.1.0",
+    "typescript": "^2.8.1",
+    "webpack": "^4.4.1",
+    "webpack-cli": "^2.0.13",
+    "webpack-dev-server": "^3.1.1"
+  }
+}
